@@ -38,6 +38,24 @@
 **Issues Faced:**
 
 * None
+## Date: 01-11-2026
+
+**Today's Work:**
+
+* Completed 5 Week 3 class problems.
+* Completed 5 Week 3 assignment problems.
+* Compiled and tested all 10 Java programs.
+* Pushed the code to `feature/session_3`.
+
+**Next Session Plan:**
+
+* Start Week 4 problems.
+
+**Issues Faced:**
+
+* No major issues.
+
+
 
 
 
